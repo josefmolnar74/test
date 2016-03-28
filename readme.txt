@@ -1,2 +1,2 @@
 Test repository to learn git
-Version 1
+Version 2
